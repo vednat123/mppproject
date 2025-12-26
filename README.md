@@ -139,5 +139,4 @@ Ontario Tech University
 [GitHub](https://github.com/vednat123) • [LinkedIn](https://linkedin.com/in/vedant-trivedi-a8445a268)
 
 ## License
-
-MIT License - Feel free to use this code for educational purposes.
+Feel free to use this code for educational purposes.
